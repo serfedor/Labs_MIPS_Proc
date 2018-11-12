@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_lite/18.1
+vmux2in1
+Z0 !s110 1542014986
+!i10b 1
+!s100 MZm<lj6o:bK1f=7Sk@0HS0
+Iic05LBfjammfY=GiIC9C_3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1
+w1537181476
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/mux2in1.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/mux2in1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1542014986.000000
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/mux2in1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/mux2in1.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vpc
+R0
+!i10b 1
+!s100 a7k@3H45VAJn6A5g8S9hF3
+I=UlHgkE:N@mP=c9TAnWNA2
+R1
+R2
+w1542011427
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/pc.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/pc.v|
+!i113 1
+R5
+R6
+vregFile
+R0
+!i10b 1
+!s100 =M=mA?YCTYd^W:jLNF26]3
+IVWFL>YOlBVXBBk2UFG30_0
+R1
+R2
+w1542011995
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/regFile.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/regFile.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/regFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/regFile.v|
+!i113 1
+R5
+R6
+nreg@file
+vshiftLeftBy2
+R0
+!i10b 1
+!s100 DaWMCI`H?=KcC>=zkca9b3
+IliBdTg?=6?O6zOVLHBaD@3
+R1
+R2
+w1542012036
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/shiftLeftBy2.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/shiftLeftBy2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/shiftLeftBy2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/shiftLeftBy2.v|
+!i113 1
+R5
+R6
+nshift@left@by2
+vsignExtend
+R0
+!i10b 1
+!s100 JnMmGCCzb2]_iTTQcWC1H2
+I996NBLYa>B]c2Fn9_EN>43
+R1
+R2
+w1542013883
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/signExtend.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/signExtend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/signExtend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/signExtend.v|
+!i113 1
+R5
+R6
+nsign@extend
+vtb_sign
+!s110 1542014987
+!i10b 1
+!s100 @zR7YcEOE05?TSadC]fTD2
+IlTahIRz8G<NBha?_4YC9j3
+R1
+R2
+w1542014855
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/tb_sign.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/tb_sign.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1542014987.000000
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/tb_sign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1/tb_sign.v|
+!i113 1
+R5
+R6

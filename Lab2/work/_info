@@ -1,0 +1,116 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab1
+vadder
+Z0 !s110 1542017124
+!i10b 1
+!s100 WDXdF`FJlN^4Zl[6WZK8F3
+IL6QzXAO3GjUEN@;7BOQ0Y1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2
+w1542012458
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/adder.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1542017124.000000
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu
+R0
+!i10b 1
+!s100 X;A:ASDLOgQboL7zSWDgR1
+I[iKbN`9IgjjmZ[QLN130m3
+R1
+R2
+w1542016211
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/alu.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/alu.v|
+!i113 1
+R5
+R6
+valuControl
+R0
+!i10b 1
+!s100 Djdaf6Cbd_1n7ZkO`NVjZ3
+I1keMf5^0cK8Hh8dJ1DF]N1
+R1
+R2
+w1542016697
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/aluControl.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/aluControl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/aluControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/aluControl.v|
+!i113 1
+R5
+R6
+nalu@control
+vram
+R0
+!i10b 1
+!s100 2oRcmWb`1N?7RS4:YZT[k1
+IKJ6dNlnA8Z28jFgOIi]7i3
+R1
+R2
+w1542017037
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/ram.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/ram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/ram.v|
+!i113 1
+R5
+R6
+vrom
+R0
+!i10b 1
+!s100 G<ceTM]fMiXTZ4f0P_R`H1
+IS^7PZ=[SAMIS=h6R1Qjcz0
+R1
+R2
+w1542017105
+8C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/rom.v
+FC:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SerLonic/GDrive/Univer/sem_7/Verilog2/MIPS/LabKPI/Lab2/rom.v|
+!i113 1
+R5
+R6

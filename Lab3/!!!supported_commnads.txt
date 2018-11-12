@@ -1,0 +1,7 @@
+beq
+j
+sw
+lw
+add
+addi
+addiu
